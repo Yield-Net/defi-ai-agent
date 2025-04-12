@@ -1,0 +1,10 @@
+{
+    "risk_tolerance": "moderate",
+    "investment_amount": 1000,
+    "investment_currency": "USDC",
+    "investment_horizon": "medium",
+    "experience_level": "beginner",
+    "investment_goals": ["passive_income"],
+    "preferred_activities": ["lending", "staking"]
+  }
+  
